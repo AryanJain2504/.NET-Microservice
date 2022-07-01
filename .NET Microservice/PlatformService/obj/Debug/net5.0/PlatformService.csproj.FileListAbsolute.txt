@@ -1,0 +1,315 @@
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\appsettings.Development.json
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\appsettings.json
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\PlatformService.exe
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\PlatformService.deps.json
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\PlatformService.runtimeconfig.json
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\PlatformService.runtimeconfig.dev.json
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\PlatformService.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\ref\PlatformService.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\PlatformService.pdb
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\AutoMapper.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Humanizer.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.csproj.AssemblyReference.cache
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.AssemblyInfoInputs.cache
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.AssemblyInfo.cs
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.csproj.CoreCompileInputs.cache
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\staticwebassets\PlatformService.StaticWebAssets.Manifest.cache
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\staticwebassets\PlatformService.StaticWebAssets.xml
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\scopedcss\bundle\PlatformService.styles.css
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.RazorTargetAssemblyInfo.cache
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.dll
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\ref\PlatformService.dll
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.pdb
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\PlatformService.Views.dll
+D:\ASP.NET Projects\PlatformService\bin\Debug\net5.0\PlatformService.Views.pdb
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.RazorAssemblyInfo.cache
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.RazorAssemblyInfo.cs
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.TagHelpers.input.cache
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.TagHelpers.output.cache
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.RazorCoreGenerate.cache
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\Razor\Views\Platforms\Create.cshtml.g.cs
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\Razor\Views\Platforms\Delete.cshtml.g.cs
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\Razor\Views\Platforms\Details.cshtml.g.cs
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\Razor\Views\Platforms\Edit.cshtml.g.cs
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\Razor\Views\Platforms\Index.cshtml.g.cs
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.RazorTargetAssemblyInfo.cs
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.Views.pdb
+D:\ASP.NET Projects\PlatformService\obj\Debug\net5.0\PlatformService.csproj.CopyComplete
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\appsettings.json
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\appsettings.Development.json
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\PlatformService.exe
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\PlatformService.deps.json
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\PlatformService.runtimeconfig.json
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\PlatformService.runtimeconfig.dev.json
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\PlatformService.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\ref\PlatformService.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\PlatformService.pdb
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\PlatformService.Views.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\PlatformService.Views.pdb
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\AutoMapper.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Humanizer.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.csproj.AssemblyReference.cache
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.AssemblyInfoInputs.cache
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.AssemblyInfo.cs
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.csproj.CoreCompileInputs.cache
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.RazorAssemblyInfo.cache
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.RazorAssemblyInfo.cs
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\staticwebassets\PlatformService.StaticWebAssets.Manifest.cache
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\scopedcss\bundle\PlatformService.styles.css
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.TagHelpers.input.cache
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.TagHelpers.output.cache
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.RazorCoreGenerate.cache
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\Razor\Views\Platforms\Create.cshtml.g.cs
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\Razor\Views\Platforms\Delete.cshtml.g.cs
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\Razor\Views\Platforms\Details.cshtml.g.cs
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\Razor\Views\Platforms\Edit.cshtml.g.cs
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\Razor\Views\Platforms\Index.cshtml.g.cs
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.RazorTargetAssemblyInfo.cache
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.RazorTargetAssemblyInfo.cs
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.Views.pdb
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\ref\PlatformService.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.pdb
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\PlatformService.csproj.CopyComplete
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\appsettings.Production.json
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Google.Protobuf.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\bin\Debug\net5.0\Grpc.Net.Common.dll
+D:\ASP.NET Projects\.NET Microservice\PlatformService\obj\Debug\net5.0\staticwebassets\PlatformService.StaticWebAssets.xml

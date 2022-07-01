@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PlatformService",
+    "\\PlatformService\\AsyncDataServices",
+    "\\PlatformService\\Controllers",
+    "\\PlatformService\\Data",
+    "\\PlatformService\\Dtos",
+    "\\PlatformService\\Models",
+    "\\PlatformService\\SyncDataServices",
+    "\\PlatformService\\SyncDataServices\\Grpc",
+    "\\PlatformService\\SyncDataServices\\Http"
+  ],
+  "SelectedNode": "\\PlatformService\\AsyncDataServices\\MessageBusClient.cs",
+  "PreviewInSolutionExplorer": false
+}
